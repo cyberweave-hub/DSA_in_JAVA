@@ -1,6 +1,7 @@
 # Queue
 
-## Implementing Queue by extending LinkedList
+## Implementing Queue by extending LinkedList.
+
 
 In a queue, elements are added at one end (last) and removed from the other end (first). i.e. queue adheres to First-In-First-Out (FIFO) property.
 
