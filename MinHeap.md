@@ -1,4 +1,4 @@
- # MinHeap Implementation step-by-step
+  . # MinHeap Implementation step-by-step. 
 
 ## 1. Define MinHeap, add initialize, getter, printer and toString methods. 
 
