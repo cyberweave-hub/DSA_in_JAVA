@@ -26,7 +26,7 @@
 ### Problems based on linked list properties .
   - Given a sequence of operations, print the state after each operation
 
-### Implementing linked list
+### Implementing linked list. 
 ```
 class Node {  
   int data;  
