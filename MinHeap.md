@@ -529,7 +529,7 @@ https://github.com/coding-guru-org/DSA_in_JAVA
 
 Test passed
 
-C:\Users\swaminathanj\dsa\code>java MinHeapRandomTest
+https://github.com/coding-guru-org/DSA_in_JAVA
 
 26 63 31 65 37 29 51 85 20 60 36 18 49 34 14 15 53 3 53 55 47 13 66 20 8 30 45 50 80 20 60 42 75 56 95 47 91 51 18 6 62 33 50 62 3 0 95 34 96 29 96 0 11 95 92 28 16 5
 
@@ -537,7 +537,7 @@ C:\Users\swaminathanj\dsa\code>java MinHeapRandomTest
 
 Test passed
 
-C:\Users\swaminathanj\dsa\code>java MinHeapRandomTest
+https://github.com/coding-guru-org/DSA_in_JAVA
 
 8 58 52 25 55 83 73 16 58 6 91 79 37 63 95 31 68 65 50 98 92 21 4 40 56 39
 
