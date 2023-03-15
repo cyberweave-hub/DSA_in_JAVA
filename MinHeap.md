@@ -522,7 +522,6 @@ C:\Users\swaminathanj\dsa\code>java MinHeapRandomTest
 
 Test passed
 
-C:\Users\swaminathanj\dsa\code>java MinHeapRandomTest
 
 26 12 94 43 95 81 79 94 8 53 8 7 36 80 7 39 12 92 76 46 29 92 2 61 86 6 70 90
 
