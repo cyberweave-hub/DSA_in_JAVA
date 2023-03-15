@@ -101,7 +101,7 @@ CMD> java Reverse
 
 **Note**: CTRL+D is pressed to signal the end of input.
 
-## Stack Application 2: Check Palindrome
+## Stack Application 2: Check Palindrome. 
 
   - **Problem**: Given an integer series as input, check if it is palindromic.
   - **Example**: 10 20 30 40 40 30 20 10 is palindromic integer series while 10 20 30 40 10 is not
