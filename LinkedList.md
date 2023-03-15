@@ -1,4 +1,4 @@
-# Stage-by-stage implementation of linked list
+# Stage-by-stage implementation of linked list. 
 
 The following page provides the implementation of LinkedList in a stage by stage manner for those who are strugging with implementing linked list. Use this until you get the hang. Once you get comforable with implementation, you should stop following this and instead start doing your own implementation.
 
@@ -12,7 +12,7 @@ class Node {
     Node next;
 }
 ```
-
+  
 ``` java
 // NodeTest.java
 
