@@ -512,7 +512,7 @@ public class MinHeapRandomTest {
 }
 ```
 
-### Sample runs of the program
+### Sample runs of the program. 
 
 C:\Users\swaminathanj\dsa\code>java MinHeapRandomTest
 
