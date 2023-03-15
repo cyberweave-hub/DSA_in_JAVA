@@ -23,7 +23,7 @@
   - delete
   - search
 
-### Problems based on linked list properties
+### Problems based on linked list properties .
   - Given a sequence of operations, print the state after each operation
 
 ### Implementing linked list
