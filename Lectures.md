@@ -50,7 +50,7 @@ class LinkedList {
 
 #### For a step-by-step implementation of LinkedList, please refer to [Linked List implementation step-by-step](LinkedList.md).
 
-### LinkedList in Collections
+### LinkedList in Collections 
   - [Javadoc page](https://docs.oracle.com/javase/7/docs/api/java/util/LinkedList.html)
   - [Examples from javatpoint](https://www.javatpoint.com/java-linkedlist)
   - [Examples from geeksfofgeeks](https://www.geeksforgeeks.org/linked-list-in-java/)
