@@ -14,7 +14,7 @@
 ### Visualizing linked list. 
 ![Linked list](vll.png)
 
-### Properties of linked list.
+### Properties of linked list. 
   - No random access.
   - To reach a node, always start from the head and traverse.
 
