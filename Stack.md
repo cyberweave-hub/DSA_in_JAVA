@@ -1,6 +1,6 @@
-# Stack and its Applications
+# Stack and its Applications. 
 
-## Stack implementation
+## Stack implementation' 
 
 We implement a Stack as an extension of LinkedList. One can implement Stack from the scratch too.
 
