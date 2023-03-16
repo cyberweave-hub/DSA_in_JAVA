@@ -4,6 +4,7 @@
 
 A graph node contains a label and its adjacency list. We use ArrayList for representing adjacency list.
 
+
 ``` java
 // GraphNode.java
 
@@ -38,7 +39,7 @@ public class GraphNodeDriver {
 }
 ```
 
-## 2. Define Graph
+## 2. Define Graph. 
 
 Next, we define the Graph class which contains an array of nodes. Given the number of vertices (passed via constructor), it creates and initializes the nodes. It also includes addEdge method that is used to add the edges. The driver program uses this method to populate the adjacency lists of the nodes.
 
