@@ -1,4 +1,4 @@
-# Step-by-step Implementation of Graph
+# Step-by-step Implementation of Graph. 
 
 ## 1. Define a Graph node and test its working
 
