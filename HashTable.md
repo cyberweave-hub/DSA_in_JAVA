@@ -1,6 +1,6 @@
 # Step-by-step Implementation of Hash Table
 
-## 1. Define HashNode
+## 1. Define HashNode. 
 
 A HashNode holds a single key-value pair. A constructor is used to initialize key and value.
 
