@@ -5,7 +5,7 @@
   - insert requires shifting out subsequent elements to right
   - delete requires shifting out subsequent elements to left
 
-### What is a linked list?
+### What is a linked list? .
   - A data structure that holds a pointer **head** to a chained link of nodes.
   - Each node contains 2 parts:
     1. **data**: holds the data
