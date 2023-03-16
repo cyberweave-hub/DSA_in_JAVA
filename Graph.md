@@ -1,6 +1,6 @@
 # Step-by-step Implementation of Graph. 
 
-## 1. Define a Graph node and test its working
+## 1. Define a Graph node and test its working. 
 
 A graph node contains a label and its adjacency list. We use ArrayList for representing adjacency list.
 
