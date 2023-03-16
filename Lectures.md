@@ -1,6 +1,6 @@
 ## 1. Linked List
 
-### Limitations of arrays.
+### Limitations of arrays. 
   - size is static and bounded, dynamic resizing not possible
   - insert requires shifting out subsequent elements to right
   - delete requires shifting out subsequent elements to left
