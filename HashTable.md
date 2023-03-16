@@ -18,7 +18,7 @@ public class HashNode {
 }
 ```
 
-## 2. Define a Hash Table.
+## 2. Define a Hash Table. 
 
 A HashTable contains an array of HashNode. The size of the the array is initialized to a large enough value and is usually a prime number.
 
