@@ -261,6 +261,7 @@ public class AVLDriver {
 		avl.insert(15); avl.insert(25); avl.insert(20);
 		System.out.print("preorder: "); avl.preorder();
 		System.out.print("inorder: "); avl.inorder();
+		
 	}
 
 	public void randomTest() { // random input
