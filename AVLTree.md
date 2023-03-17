@@ -14,6 +14,7 @@ To keep the BST and AVL implementations separate and distinguish them, the class
 ``` java
 // AVLNode.java
 
+
 public class AVLNode {
     protected int data;
     protected AVLNode left;
@@ -264,7 +265,7 @@ public class AVLDriver {
 
 	}
 
-	
+
 
 
 
