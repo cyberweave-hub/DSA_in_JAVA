@@ -1,6 +1,6 @@
 # Disjoint Set
 
-## 1. Defining a Disjoint Set Node and test its working
+## 1. Defining a Disjoint Set Node and test its working.
 
 A disjoint set node contains a label and a reference to is parent. You can include data in form of any type apart from these.
 
