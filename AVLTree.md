@@ -266,6 +266,8 @@ public class AVLDriver {
 
 	
 
+
+
 	public void randomTest() { // random input
 		AVLTree avl = new AVLTree();
 		int[] arr = new int[100];
