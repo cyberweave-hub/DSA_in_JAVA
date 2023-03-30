@@ -17,6 +17,7 @@ Data Structure in java is defined as the collection of data pieces that offers a
 ## Types of Data Structures in Java
 Here is the list of some of the common types of data structures in Java:
 
+
 1) Array
 2) Linked List
 3) Stack 
