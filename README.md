@@ -3,7 +3,6 @@ Data Structures and Algorithms (Pavankumar Hegde)
 
 ## What is Java?
 
-
 Java Programming is a high-level programming language created by sun microsystems. This programming language is reliable, object-oriented and secure. Java follows the WORA principle, which stands for “Write Once Run Anywhere”. You can run a java program as many times as you want on a java supported platform after it is compiled. 
 
 ## What are Data Structures?
